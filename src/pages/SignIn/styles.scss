@@ -39,3 +39,18 @@
         margin-right: 7px;
     }
 }
+
+.user {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    margin-bottom: 64px;
+
+    img {
+        width: 140px;
+        height: 140px;
+        border-radius: 70px;
+        margin-bottom: 16px;
+    }
+}
